@@ -2,7 +2,7 @@ import React from 'react';
 
 export const dynamic = 'force-dynamic';
 
-async function WebBaseHomepage() {
+function WebBaseHomepage() {
   // Check out `layout.js` to see the work that needs to be done.
   return (
     <section className="hero">
